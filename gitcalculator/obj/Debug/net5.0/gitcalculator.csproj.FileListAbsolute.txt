@@ -1,0 +1,16 @@
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.exe
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.deps.json
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.runtimeconfig.json
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.runtimeconfig.dev.json
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.dll
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\ref\gitcalculator.dll
+C:\Users\s2000954\source\repos\gitcalculator\bin\Debug\net5.0\gitcalculator.pdb
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.csproj.AssemblyReference.cache
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.AssemblyInfoInputs.cache
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.AssemblyInfo.cs
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.csproj.CoreCompileInputs.cache
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.dll
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\ref\gitcalculator.dll
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.pdb
+C:\Users\s2000954\source\repos\gitcalculator\obj\Debug\net5.0\gitcalculator.genruntimeconfig.cache
