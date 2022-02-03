@@ -11,9 +11,19 @@ namespace gitcalculator
             Console.WriteLine("Toinen numero: ");
             int input1 = Convert.ToInt32(Console.ReadLine());
 
-            int sum = input + input1;
+            Console.WriteLine("Jos haluat summan paina 1 ja jos haluat erotuksen paina 2");
+            int vastaus = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Vastaus: " + sum);
+             if (vastaus == 1) 
+            {
+                int sum = input + input1;
+                Console.WriteLine("Vastaus: " + sum);
+            } else 
+            {
+                int erotus = input - input1;
+                Console.WriteLine("Erotus: " + erotus);
+            }
+           
         }
     }
 }

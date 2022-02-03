@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s2000954\\Desktop\\GIt\\gitcalculator\\gitcalculator.csproj",
+      "projectUniqueName": "C:\\Users\\s2000954\\Desktop\\GIt\\git-harjoitukset\\gitcalculator\\gitcalculator.csproj",
       "projectName": "gitcalculator",
-      "projectPath": "C:\\Users\\s2000954\\Desktop\\GIt\\gitcalculator\\gitcalculator.csproj",
+      "projectPath": "C:\\Users\\s2000954\\Desktop\\GIt\\git-harjoitukset\\gitcalculator\\gitcalculator.csproj",
       "packagesPath": "C:\\Users\\s2000954\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s2000954\\Desktop\\GIt\\gitcalculator\\obj\\",
+      "outputPath": "C:\\Users\\s2000954\\Desktop\\GIt\\git-harjoitukset\\gitcalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s2000954\\AppData\\Roaming\\NuGet\\NuGet.Config",
